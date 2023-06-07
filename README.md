@@ -2,15 +2,15 @@
 Simple Portscanner using Python 
 
 ## Module used : 
---'socket'
-  
-  [socket — Low-level networking interface]
+### (1) socket
+
+ [socket — Low-level networking interface]
   
   link:https://docs.python.org/3/library/socket.html 
   
   
 
---'termcolor' 
+### (2) termcolor 
 
 [To change the text color, we use a Python library called termcolor.]
   
