@@ -2,7 +2,7 @@
 Simple Portscanner using Python 
 
 ## Module used : 
-### (1) socket
+```socket```
 
  [socket — Low-level networking interface]
   
