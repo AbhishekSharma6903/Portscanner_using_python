@@ -10,7 +10,7 @@ Simple Portscanner using Python
   
   
 
-### (2) termcolor 
+``` termcolor ```
 
 [To change the text color, we use a Python library called termcolor.]
   
