@@ -1,7 +1,7 @@
 # Portscanner_using_python
 Simple Portscanner using Python 
 
-## Module used : 
+## Module used in the Project: 
 ```socket```
 
  [socket — Low-level networking interface]
